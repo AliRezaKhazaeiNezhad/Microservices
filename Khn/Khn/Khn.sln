@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{AAC78D9D-44B8-4BD2-A950-FA4CA19F89F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks", "Frameworks", "{893E7727-916B-450D-8E70-4843140F46FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{2F999327-5792-4533-AAF0-941868B543A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khn.Logging", "Khn.Logging\Khn.Logging.csproj", "{3D035609-E700-456D-BD17-A83BFBE2E53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D035609-E700-456D-BD17-A83BFBE2E53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D035609-E700-456D-BD17-A83BFBE2E53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D035609-E700-456D-BD17-A83BFBE2E53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D035609-E700-456D-BD17-A83BFBE2E53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D035609-E700-456D-BD17-A83BFBE2E53F} = {893E7727-916B-450D-8E70-4843140F46FC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A516662-C4FF-4339-95D5-D48C1930653B}
+	EndGlobalSection
+EndGlobal
