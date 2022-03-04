@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingMicroservice.Persist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingMicroservice.Resource", "LoggingMicroservice.Resource\LoggingMicroservice.Resource.csproj", "{64544745-2E07-49BB-AD23-FC3B77E167CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khn", "Khn\Khn.csproj", "{64F051D5-6AE1-4AB9-978E-9D1F9B37D174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{64544745-2E07-49BB-AD23-FC3B77E167CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64544745-2E07-49BB-AD23-FC3B77E167CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64544745-2E07-49BB-AD23-FC3B77E167CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F051D5-6AE1-4AB9-978E-9D1F9B37D174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F051D5-6AE1-4AB9-978E-9D1F9B37D174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F051D5-6AE1-4AB9-978E-9D1F9B37D174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F051D5-6AE1-4AB9-978E-9D1F9B37D174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{967646DA-3E6E-47B1-9140-4D3135CD3BF7} = {6C679030-FCA0-4B8C-B2B5-C5CDA2BB3815}
 		{7234A52B-B568-48D3-B6E0-D3515B324CEF} = {46BDA27E-9360-4E38-97CA-B46CC5340832}
 		{64544745-2E07-49BB-AD23-FC3B77E167CA} = {8F0453E3-63ED-4801-B172-F59851499A28}
+		{64F051D5-6AE1-4AB9-978E-9D1F9B37D174} = {893E7727-916B-450D-8E70-4843140F46FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A516662-C4FF-4339-95D5-D48C1930653B}

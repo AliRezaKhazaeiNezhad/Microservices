@@ -6,10 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="LogsFeature\Events\" />
-    <Folder Include="LogsFeature\EventHandlers\" />
-    <Folder Include="LogsFeature\Validators\" />
-  </ItemGroup>
-
 </Project>
